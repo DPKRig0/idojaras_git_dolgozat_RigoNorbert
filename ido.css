@@ -30,11 +30,10 @@ p
 table
 {
 	border:outset;
-	margin: auto;
-	border-collapse: collapse;
-	width: 80%;
-	border: 3px solid rgba(255,255,255,0.7) ;
-	box-shadow: 10px -5px 20px 0px rgba(0,0,0,0.5);
+    margin: auto;
+    text-align: center;
+    padding: 0;
+    width: 80%;
 }
 td{
 	padding: 0;
