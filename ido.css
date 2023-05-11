@@ -30,6 +30,12 @@ p
 table
 {
 	border:outset;
+	margin-left: auto;
+	margin-right: auto;
+}
+td{
+	padding: 0;
+	margin: 0;
 }
 
 hr
